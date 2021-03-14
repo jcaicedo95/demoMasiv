@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/9CCuj0tcy0LLsKexMXk5m2jFYvU2W9pby8clzLF0oHeMcEF1i+OYfFU3KzPGkn0GGhy5afNAEGB9Xv9PRLWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JCAICEDO\\source\\repos\\DemoMasiv\\DemoMasiv.Core.LogicLayer\\DemoMasiv.Core.LogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\awssdk.core\\3.5.3.6\\awssdk.core.3.5.3.6.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.0\\pipelines.sockets.unofficial.2.2.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\stackexchange.redis\\2.2.4\\stackexchange.redis.2.2.4.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\JCAICEDO\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

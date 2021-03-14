@@ -1,0 +1,9 @@
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\bin\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.deps.json
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\bin\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.dll
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\bin\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.pdb
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\obj\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.csprojAssemblyReference.cache
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\obj\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.AssemblyInfoInputs.cache
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\obj\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.AssemblyInfo.cs
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\obj\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\obj\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.dll
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Core.LogicLayer\obj\Debug\netcoreapp3.1\DemoMasiv.Core.LogicLayer.pdb

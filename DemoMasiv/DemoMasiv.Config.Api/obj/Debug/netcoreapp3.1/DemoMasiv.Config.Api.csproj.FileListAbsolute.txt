@@ -1,0 +1,9 @@
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\bin\Debug\netcoreapp3.1\DemoMasiv.Config.Api.deps.json
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\bin\Debug\netcoreapp3.1\DemoMasiv.Config.Api.dll
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\bin\Debug\netcoreapp3.1\DemoMasiv.Config.Api.pdb
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\obj\Debug\netcoreapp3.1\DemoMasiv.Config.Api.csprojAssemblyReference.cache
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\obj\Debug\netcoreapp3.1\DemoMasiv.Config.Api.AssemblyInfoInputs.cache
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\obj\Debug\netcoreapp3.1\DemoMasiv.Config.Api.AssemblyInfo.cs
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\obj\Debug\netcoreapp3.1\DemoMasiv.Config.Api.csproj.CoreCompileInputs.cache
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\obj\Debug\netcoreapp3.1\DemoMasiv.Config.Api.dll
+C:\Users\JCAICEDO\source\repos\DemoMasiv\DemoMasiv.Config.Api\obj\Debug\netcoreapp3.1\DemoMasiv.Config.Api.pdb
